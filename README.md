@@ -1,1 +1,0 @@
-# doctor_clinic-simulation
